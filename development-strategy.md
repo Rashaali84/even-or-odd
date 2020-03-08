@@ -13,7 +13,7 @@ Building this site one step at a time
 ## 2. Init (not finished!)
 
 - The code in `init.js` that renders the current list for users is complete.
-  - But the `renderList` DOM Component function is not! you will need to write this
+  - I wrote the code in `views/render-list.js` , creat div with two children one is h4 header and the other is ol which has all lists
 - `index.html` is complete, just waiting for the code behind it
 
 ## 3. User Story: `reset` (completed for you)
